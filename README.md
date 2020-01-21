@@ -2,13 +2,7 @@
 
 ### Cell: (805)- 390 - 0337 | Email: chasedudas13@gmail.com | GitHub: github.com/ChaseDudas
 
-### As a Computer Scientist, I enjoy collaborating with people from all kinds of backgrounds to find effective
-
-### solutions to a range of complex problems. I want to work in an exciting and motivated environment with a team
-
-### that will settle for nothing less than perfection. I strive to write lasting code that is efficient and scalable. I am
-
-### interested in working either in Boulder/Denver or in Southern California.
+#### As a Computer Scientist, I enjoy collaborating with people from all kinds of backgrounds to find effective solutions to a range of complex problems. I want to work in an exciting and motivated environment with a team that will settle for nothing less than perfection. I strive to write lasting code that is efficient and scalable. I am interested in working either in Boulder/Denver or in Southern California.
 
 ## Experience
 
