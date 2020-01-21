@@ -6,8 +6,6 @@
 
 ## Experience
 
-### ───────────────────────────────────────────
-
 ### Software Engineer , The Donaldson Lab (Boulder, Colorado) May 2019 – Dec 2019
 
 As a software engineer for the lab, I worked with a small team of 10 scientists to study the mechanistic basis for individual
@@ -24,8 +22,6 @@ hours.
 
 ## Projects
 
-### ───────────────────────────────────────────
-
 ### UI Lab Capture May 2019
 
 An interface designed to make the scientists job easier by providing a simple, yet effective way of setting up their cameras and
@@ -41,21 +37,15 @@ my “clients”, the accountants at GSA, I took this project under my belt and 
 
 ## Education
 
-### ───────────────────────────────────────────
-
 B.A. Computer Science, Minor Economics University of Colorado Boulder
 Computer Science GPA: 3.424 Cumulative GPA: 3.
 December 2019
 
 ## Technical Skills
 
-### ───────────────────────────────────────────
-
 C, C++, HTML/CSS, Raspberry Pi, Python, GitHub, React, NodeJS, Scala
 
 ## Involvements
-
-### ───────────────────────────────────────────
 
 CU Gaming Overwatch Team, Large Scale Facebook Admin
 
